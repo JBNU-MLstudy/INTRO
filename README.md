@@ -10,7 +10,7 @@ study process
 study schedule
 --------------
 
-20.07.08 0주차: 개강밋업(feat. github)
+20.07.08 0주차: 개강밋업
 <ul>- github 이용법 간단소개, python edditor 간단 소개</ul>
 20.07.15 1주차: 모두를 위한 파이썬 part1 
 <ul>- ch1, ch2, ch3 수강하고 백준 알고리즘(입출력 1, 5, 6, 7, 8, 9, 10/ if 1, 3, 5)</ul>
